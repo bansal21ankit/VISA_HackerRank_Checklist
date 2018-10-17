@@ -4,12 +4,12 @@
         "source": "/home/ankit/Projects/Visa_HackerRank/Solution/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/ankit/Projects/Visa_HackerRank/Solution/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/home/ankit/Projects/Visa_HackerRank/Solution/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
         "merged": "/home/ankit/Projects/Visa_HackerRank/Solution/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
         "source": "/home/ankit/Projects/Visa_HackerRank/Solution/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/ankit/Projects/Visa_HackerRank/Solution/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/ankit/Projects/Visa_HackerRank/Solution/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "/home/ankit/Projects/Visa_HackerRank/Solution/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
